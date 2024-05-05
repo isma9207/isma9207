@@ -21,11 +21,12 @@
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-Gray?style=for-the-badge&logo=postgresql&logoColor=gray" alt="sql"/>
+    <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-Gray?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img decoding="async" src="https://img.shields.io/badge/Postman-FFBE00?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
   </a>
-
+<img decoding="async" src="https://img.shields.io/badge/Jira-FFBE10?style=for-the-badge&logo=Jira&logoColor=white" alt="postman"/>
+  </a>
 </div>
