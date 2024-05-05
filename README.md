@@ -8,6 +8,9 @@
   </a>
 </p>
 
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=isma9207&color=00cf00" alt=""/>
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning about software testing in an interesting bootcamp, Tripleten.
