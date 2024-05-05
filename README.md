@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/isma9207/isma9207/blob/main/QA%20ENGINEER%20(2).png?raw=true" width="800"/>
+  <img decoding="async" src="" width="800"/>
 </div>
 
 
