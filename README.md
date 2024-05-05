@@ -27,6 +27,8 @@
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Postman-FFBE00?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
   </a>
-<img decoding="async" src="https://img.shields.io/badge/Jira-FFBE10?style=for-the-badge&logo=Jira&logoColor=white" alt="postman"/>
+<img decoding="async" src="https://img.shields.io/badge/Jira-3796AB?style=for-the-badge&logo=Jira&logoColor=white" alt="jira"/>
+  </a>
+   <img decoding="async" src="https://img.shields.io/badge/Android_Studio-Gray?style=for-the-badge&logo=android-studio&logoColor=white" alt="sql"/>
   </a>
 </div>
