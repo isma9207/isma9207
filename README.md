@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<p align="center">
-  ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=isma9207.isma9207)
-</p>
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=isma9207.isma9207&color=00cf00" alt=""/>
+</div>
 
 ### Hi there 👋
 
