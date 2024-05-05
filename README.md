@@ -32,3 +32,7 @@
    <img decoding="async" src="https://img.shields.io/badge/Android_Studio-Gray?style=for-the-badge&logo=android-studio&logoColor=white" alt="sql"/>
   </a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isma9207&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isma9207&layout=compact&theme=vision-friendly-dark)](https://github.com/isma9207/github-readme-stats)
