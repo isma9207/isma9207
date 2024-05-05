@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <img decoding="async" src="" width="800"/>
+  <img decoding="async" src="https://github.com/isma9207/isma9207/blob/main/QA%20ENGINEER.png?raw=true" width="800"/>
 </div>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-santamar1a/)
 
 ### Hi there 👋
 
