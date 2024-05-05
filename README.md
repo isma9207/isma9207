@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img decoding="async" src="https://www.canva.com/design/DAGENASsbOo/LlZzZXWpWhiCbTJDEKpodA/edit?utm_content=DAGENASsbOo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="800"/>
-</div>
+
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning about software testing in an interesting bootcamp, Tripleten.
