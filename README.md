@@ -10,7 +10,6 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning about software testing in an interesting bootcamp, Tripleten.
 - 👯 I’m looking to collaborate on projects where I can challenge myself and apply my knowlege in software testing.
 - Some of project that I'm working on includes design and execute test cases (manual, mobile and automation), manage data bases using SQL as well
 * :mailbox: Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Ismael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-santamar1a/)
